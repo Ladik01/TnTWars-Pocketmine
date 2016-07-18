@@ -1,0 +1,42 @@
+name: TnTWars
+main: me.junglesociety.tntwars2.TNTWars
+version: 1.0.0
+author: Ladik01
+depends: [WorldEdit]
+api: 1.0.0
+     2.0.0
+     
+commands:
+  tntwars:
+    description: Do /TNTWars help for help!
+  tw:
+    description: Do /TW help for help!
+permissions:
+  tntwars.join:
+    description: Join the game
+  tntwars.spectate:
+    description: Spectate the game 
+  tntwars.position:
+    description: Set positions
+  tntwars.save:
+    description: Save the arena 
+  tntwars.setredspawn:
+    description: Set red team spawn
+  tntwars.setbluespawn:
+    description: Set blue team spawn
+  tntwars.leave:
+    description: Leave the game 
+  tntwars.setspectatorspawn:
+    description: Set spectator spawn
+  tntwars.setlobbyspawn:
+    description: Set the lobby spawn
+  tntwars.list:
+    description: Lists arenas
+  tntwars.help:
+    description: View help
+  tntwars.create:
+    description: Creates arena
+  tntwars.todo:
+    description: Checks to do stuff
+  tntwars.remove:
+    description: Removes arena
