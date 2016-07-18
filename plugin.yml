@@ -1,5 +1,5 @@
 name: TnTWars
-main: me.junglesociety.tntwars2.TNTWars
+main: Ladik01/TnTWars
 version: 1.0.0
 author: Ladik01
 depends: [WorldEdit]
